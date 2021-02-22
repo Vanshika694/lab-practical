@@ -1,3 +1,4 @@
+AIM:Write a program to read marks of a student from keyboard whether the student is pass or fail( using if else)
 /*
 8. Write a program to read marks of a student from keyboard whether the student is pass or fail( using if else)
 */
