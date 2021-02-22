@@ -1,3 +1,4 @@
+AIM:Write a C program to interchange two numbers.
 /*
 4. Write a C program to interchange two numbers. 
 */
@@ -6,16 +7,16 @@
 
 int main() 
 {
- int a,b;
- printf("Enter Value of a :");
- scanf("%d",&a);
- printf("Enter Value of b :");
- scanf("%d",&b);
+   int a,b;
+   printf("Enter Value of a :");
+   scanf("%d",&a);
+   printf("Enter Value of b :");
+   scanf("%d",&b);
 
- a=a+b;
- b=a-b;
- a=a-b;
+       a=a+b;
+       b=a-b;
+       a=a-b;
 
- printf("\nAfter Swapping Values a = %d b = %d",a,b);
+   printf("\nAfter Swapping Values a = %d b = %d",a,b);
  return 0;
 }
