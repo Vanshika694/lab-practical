@@ -1,3 +1,5 @@
+AIM:Write a program to find area of triangle(a=h*b*.5)
+               a = area h = height b = base.
 /*
 2. Write a program to find area of triangle.
 (a=h*b*.5) 
